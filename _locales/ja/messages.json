@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Amz Prime Scope",
+    "description": "Extension name."
+  },
+  "extDesp": {
+    "message": "Amazon (.co.jp) の検索結果をワンクリックで Amazon 販売且つ Prime 対応のみにします。",
+    "description": "Extension description."
+  }
+}

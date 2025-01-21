@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Amz Prime Scope",
+    "description": "Extension name."
+  },
+  "extDesp": {
+    "message": "With one click, this filters Amazon (.co.jp) search results to show only items sold by Amazon and Prime products.",
+    "description": "Extension description."
+  }
+}
