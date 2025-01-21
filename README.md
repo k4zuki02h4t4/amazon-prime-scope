@@ -8,6 +8,9 @@ It can be used on any Chromium-based browser that supports installing extensions
 With one click, this filters Amazon search results to show only items sold by Amazon and all Prime-eligible products. This is useful when you want to purchase reliable products, such as expensive items, rare goods, or durable products.  
 However, it cannot prevent item swaps at Amazon warehouses.
 
+## Note
+Operation is only guaranteed on Amazon Japan.
+
 ## License
 MIT License
 Copyright (c) 2025 K4zuki 0thuhata
