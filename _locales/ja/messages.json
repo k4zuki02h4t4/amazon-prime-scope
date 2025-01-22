@@ -4,7 +4,7 @@
     "description": "Extension name."
   },
   "extDesp": {
-    "message": "Amazon (.co.jp) の検索結果をワンクリックで Amazon 販売且つ Prime 対応のみにします。",
+    "message": "Amazon (.co.jp) の検索結果をワンクリックで Amazon 販売且つ Prime 対応または通常配送料無料のみに絞り込みます。",
     "description": "Extension description."
   }
 }
